@@ -1,3 +1,7 @@
+function contact(){
+    alert("It is being developed");
+}
+
 let menu = document.querySelector('#menu-icon');
 let navlist = document.querySelector('.navlist');
 
